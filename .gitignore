@@ -1,0 +1,7 @@
+# Embedding cache (regenerated from product_overview.md on first run)
+.qa_index.pkl
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

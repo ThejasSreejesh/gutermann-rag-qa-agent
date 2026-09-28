@@ -1,0 +1,5 @@
+numpy>=1.24
+# Ollama is used over its local HTTP API (stdlib urllib) — no python client needed.
+# Install & run Ollama separately: https://ollama.com
+#   ollama pull nomic-embed-text
+#   ollama pull qwen2.5:7b
